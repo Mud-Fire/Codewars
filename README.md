@@ -1,5 +1,7 @@
 Codewars
 =============
+python 3.4.3
+
 # 4ku
  The observed PIN<br>
 
@@ -10,16 +12,16 @@ Codewars
  Valid Parentheses<br>
 
 # 6ku
- Which are in?
- Find the unique number
- Counting Duplicates
- Duplicate Encoder
- The Supermarket Queue
- Find The Parity Outlier
- Create Phone Number
- Delete occurrences of an element if it occurs more 
- Dubstep
+ Which are in?<br>
+ Find the unique number<br>
+ Counting Duplicates<br>
+ Duplicate Encoder<br>
+ The Supermarket Queue<br>
+ Find The Parity Outlier<br>
+ Create Phone Number<br>
+ Delete occurrences of an element if it occurs more <br>
+ Dubstep<br>
 
-#8ku
- How good are you really?
- Multiply
+# 8ku
+ How good are you really?<br>
+ Multiply<br>
