@@ -11,9 +11,10 @@ def determinant(matrix):
         result = 0
         for i in range(len(matrix[0])):
             a = matrix[0][i] * ((-1) ** (i % 2))
-            b = deepcopy(matrix[1:len(matrix[0])])
-            for j in b:
-                j.pop(i)
+            b = [(row[0:i]+row[i+1:]) for row in matrix[1:]]
+            # b = deepcopy(matrix[1:len(matrix[0])])
+            # for j in b:
+            #     j.pop(i)
             result += a * determinant(b)
         return result
 
