@@ -5,6 +5,7 @@ python 3.4.3
 # 4ku
  The observed PIN<br>
  Matrix Determinant<br>
+ Strings Mix<br>
 
 # 5ku
  Double Cola<br>
