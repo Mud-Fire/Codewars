@@ -10,6 +10,7 @@ python 3.4.3
  Matrix Determinant<br>
  Strings Mix<br>
  Middle Permutation<br>
+ Counting Change Combinations<br>
 
 # 5ku
  Double Cola<br>
