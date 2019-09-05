@@ -2,6 +2,9 @@ Codewars
 =============
 python 3.4.3
 
+# 3ku
+ The Millionth Fibonacci Kata<br>
+
 # 4ku
  The observed PIN<br>
  Matrix Determinant<br>
