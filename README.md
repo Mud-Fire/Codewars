@@ -6,6 +6,7 @@ python 3.4.3
  The observed PIN<br>
  Matrix Determinant<br>
  Strings Mix<br>
+ Middle Permutation<br>
 
 # 5ku
  Double Cola<br>
