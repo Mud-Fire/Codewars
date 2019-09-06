@@ -12,6 +12,7 @@ python 3.4.3
  Middle Permutation<br>
  Counting Change Combinations<br>
  Snail<br>
+ Strip Comments<br>
 
 # 5ku
  Double Cola<br>
