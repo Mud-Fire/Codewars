@@ -1,6 +1,6 @@
 def count_change(money, coins):
     # your implementation here
-    if len(coins) ==  or money < 0:
+    if len(coins) == 0 or money < 0:
         return 0
     elif money == 0:
         return 1
