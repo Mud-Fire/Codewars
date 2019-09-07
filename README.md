@@ -16,6 +16,7 @@ python 3.4.3
  Strip Comments<br>
  Sort binary tree by levels<br>
  Breadcrumb Generator<br>
+ Count ones in a segment<br>
 
 # 5ku
  Double Cola<br>
