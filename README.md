@@ -19,6 +19,7 @@ python 3.4.3
  Breadcrumb Generator<br>
  Count ones in a segment<br>
  Mystery Function<br>
+ Range Extraction<br>
 
 # 5ku
  Double Cola<br>
