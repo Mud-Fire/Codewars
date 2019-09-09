@@ -20,6 +20,7 @@ python 3.4.3
  Count ones in a segment<br>
  Mystery Function<br>
  Range Extraction<br>
+ Magnet particules in boxes<br>
 
 # 5ku
  Double Cola<br>
