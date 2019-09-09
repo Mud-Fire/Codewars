@@ -18,6 +18,7 @@ python 3.4.3
  Sort binary tree by levels<br>
  Breadcrumb Generator<br>
  Count ones in a segment<br>
+ Mystery Function<br>
 
 # 5ku
  Double Cola<br>
