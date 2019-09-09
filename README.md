@@ -5,6 +5,7 @@ python 3.4.3
 # 3ku
  The Millionth Fibonacci Kata<br>
  Make a spiral<br>
+ Count Connectivity Components<br>
 
 # 4ku
  The observed PIN<br>
