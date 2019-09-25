@@ -21,6 +21,8 @@ python 3.4.3
  Mystery Function<br>
  Range Extraction<br>
  Magnet particules in boxes<br>
+ String -> X-Iterations -> String<br>
+ Number of Proper Fractions with Denominator d<br>
 
 # 5ku
  Double Cola<br>
