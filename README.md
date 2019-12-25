@@ -42,6 +42,9 @@ python 3.4.3
  Dubstep<br>
  Take a Ten Minute Walk<br>
 
+# 7ku
+ Maximum Multiple<br>
+
 # 8ku
  How good are you really?<br>
  Multiply<br>
