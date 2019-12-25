@@ -41,6 +41,7 @@ python 3.4.3
  Delete occurrences of an element if it occurs more <br>
  Dubstep<br>
  Take a Ten Minute Walk<br>
+ Backspaces in string<br>
 
 # 7ku
  Maximum Multiple<br>
